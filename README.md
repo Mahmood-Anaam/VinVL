@@ -17,3 +17,4 @@ Clone the repository and install VinVL in editable mode:
 Interactive Jupyter notebooks are provided to demonstrate VinVL capabilities. You can open these notebooks in Google Colab:
 
 - [Feature Extraction Demo](https://github.com/Mahmood-Anaam/VinVL/blob/main/notebooks/features_extraction_demo.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mahmood-Anaam/VinVL/blob/main/notebooks/features_extraction_demo.ipynb)
+- [Feature Extraction Demo](https://github.com/Mahmood-Anaam/VinVL/blob/main/notebooks/features_extraction_demo.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mahmood-Anaam/VinVL/blob/main/notebooks/features_extraction_demo.ipynb)
